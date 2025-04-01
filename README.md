@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Daniel Laureno!</h2>
+<h2 align="left">Hi, I'm Daniel Laureno!👋</h2>
 
 - 📚 Cursando Engenharia de Software na FIAP
 - 💻 Estudando JavaScript, HTML e Python
