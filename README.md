@@ -3,7 +3,7 @@
 ###
 
 <p>👨‍💻 Software Engineering student at <a href="https://www.fiap.com.br/" target="_blank">FIAP</a></p>
-<p>📚 Currently learning JavaScript and Python</p>
+<p>📚 Currently learning Python and Java</p>
 
 ###
 
